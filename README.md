@@ -1,1 +1,3 @@
-# miniq-public
+# MiNI-Q
+
+Software, firmware, CAD models and PCB design files will be available soon...
